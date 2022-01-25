@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="660">
+<defs>
+  <radialGradient id="rg" gradientUnits="userSpaceOnUse" cx="220" cy="220" r="405">
+    <stop style="stop-color:#fff;stop-opacity:.3" offset="0"/>
+    <stop style="stop-color:#fff;stop-opacity:.2" offset=".2"/>
+    <stop style="stop-color:#666;stop-opacity:.1" offset=".6"/>
+    <stop style="stop-color:#000;stop-opacity:.13" offset="1"/>
+  </radialGradient>
+  <clipPath id="clip-shield">
+    <path id="shield" d="m2,2v257c0,286 298,398 298,398c0,0 298-112 298-398V2z"/>
+  </clipPath>
+</defs>
+<use id="background" xlink:href="#shield" fill="#fff"/>
+<path id="cross" fill="#000" d="M 240 2 L 240 48 L 216 48 L 216 96 L 240 96 L 240 144 L 216 144 L 216 192 L 240 192 L 240 240 L 192 240 L 192 216 L 144 216 L 144 240 L 96 240 L 96 216 L 48 216 L 48 240 L 2 240 L 2 259 C 2 295.45285 6.8506384 329.07218 15.298828 360 L 48 360 L 48 384 L 96 384 L 96 360 L 144 360 L 144 384 L 192 384 L 192 360 L 240 360 L 240 408 L 216 408 L 216 456 L 240 456 L 240 504 L 216 504 L 216 552 L 240 552 L 240 627.58984 C 275.23108 647.67526 300 657 300 657 C 300 657 324.76892 647.67526 360 627.58984 L 360 552 L 384 552 L 384 504 L 360 504 L 360 456 L 384 456 L 384 408 L 360 408 L 360 360 L 408 360 L 408 384 L 456 384 L 456 360 L 504 360 L 504 384 L 552 384 L 552 360 L 584.70117 360 C 593.14936 329.07218 598 295.45285 598 259 L 598 240 L 552 240 L 552 216 L 504 216 L 504 240 L 456 240 L 456 216 L 408 216 L 408 240 L 360 240 L 360 192 L 384 192 L 384 144 L 360 144 L 360 96 L 384 96 L 384 48 L 360 48 L 360 2 L 240 2 z"/>
+<use id="shine" xlink:href="#shield" fill="url(#rg)" stroke="#000" stroke-width="3"/>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="660">
+<defs>
+  <radialGradient id="rg" gradientUnits="userSpaceOnUse" cx="220" cy="220" r="405">
+    <stop style="stop-color:#fff;stop-opacity:.3" offset="0"/>
+    <stop style="stop-color:#fff;stop-opacity:.2" offset=".2"/>
+    <stop style="stop-color:#666;stop-opacity:.1" offset=".6"/>
+    <stop style="stop-color:#000;stop-opacity:.13" offset="1"/>
+  </radialGradient>
+  <path id="shield" d="m2,2v257c0,286 298,398 298,398c0,0 298-112 298-398V2z"/>
+  <pattern id="ermine" patternUnits="userSpaceOnUse" x="-10" width="60" height="120">
+    <g transform="scale(0.2)">
+    <path id="ermine1" d="m 46,105 c 0,50 -25,105 -46,125 15,0 25,0 35,-5 3,10 6,20 15,25 9,-5 12,-15 15,-25 10,5 20,5 35,5 C 79,210 54,155 54,105 Z m 54,0 a 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 20,20 0 0 1 20,20 z m -60,0 A 20,20 0 0 1 20,125 20,20 0 0 1 0,105 20,20 0 0 1 20,85 20,20 0 0 1 40,105 Z M 70,70 A 20,20 0 0 1 50,90 20,20 0 0 1 30,70 20,20 0 0 1 50,50 20,20 0 0 1 70,70 Z"/>
+    <use xlink:href="#ermine1" x="150" y="300"/>
+    </g>
+  </pattern>
+</defs>
+<use xlink:href="#shield" fill="#fff"/>
+<use xlink:href="#shield" fill="url(#ermine)"/>
+<path id="second" fill="#fd0" d="M 2 2 L 300 300 L 300 2 L 2 2 z M 300 300 L 595.89258 300 C 597.26761 286.74845 598 273.0886 598 259 L 598 2 L 300 300 z M 300 300 L 300 657 C 300 657 419.2368 612.18412 506.86328 506.86328 L 300 300 z M 300 300 L 4.1074219 300 C 12.98893 385.59371 49.059561 453.88565 93.136719 506.86328 L 300 300 z"/>
+<use id="shine" xlink:href="#shield" fill="url(#rg)" stroke="#000" stroke-width="3"/>
+</svg>

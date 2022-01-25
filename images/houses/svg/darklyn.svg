@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="660">
+<defs>
+  <radialGradient id="rg" gradientUnits="userSpaceOnUse" cx="220" cy="220" r="405">
+    <stop style="stop-color:#fff;stop-opacity:.3" offset="0"/>
+    <stop style="stop-color:#fff;stop-opacity:.2" offset=".2"/>
+    <stop style="stop-color:#666;stop-opacity:.1" offset=".6"/>
+    <stop style="stop-color:#000;stop-opacity:.13" offset="1"/>
+  </radialGradient>
+  <pattern id="fusilly" patternUnits="userSpaceOnUse" x="37.5" width="75" height="110">
+    <path fill="#000" d="m37.5,0 37.5,55 -37.5,55 -37.5,-55z"/>
+  </pattern>
+  <path id="shield" d="m2,2v257c0,286 298,398 298,398c0,0 298-112 298-398V2z"/>
+</defs>
+<use id="field" xlink:href="#shield" fill="#fd0"/>
+<use xlink:href="#shield" fill="url(#fusilly)"/>
+<path fill="#c00" d="M 2 2 L 2 259 C 2 433.8827 113.41881 543.6938 200 602.63281 L 200 2 L 2 2 z"/>
+<use id="escutcheon" xlink:href="#shield" fill="#fff" transform="translate(110,30)scale(0.1)"/>
+<use xlink:href="#escutcheon" x="-80" y="60"/>
+<use xlink:href="#escutcheon" y="120"/>
+<use xlink:href="#escutcheon" x="-80" y="180"/>
+<use xlink:href="#escutcheon" y="240"/>
+<use xlink:href="#escutcheon" x="-80" y="300"/>
+<use xlink:href="#escutcheon" y="360"/>
+<use id="shine" xlink:href="#shield" fill="url(#rg)" stroke="#000" stroke-width="3"/>
+</svg>

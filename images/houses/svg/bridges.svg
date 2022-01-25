@@ -1,0 +1,2098 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="660"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="House_Bridges.svg">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="0.50568849"
+     inkscape:cx="306.97475"
+     inkscape:cy="355.01163"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4657"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4653"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4649"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4647"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4645"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4643"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4633"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4629"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4625"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4621"
+       is_visible="true" />
+    <radialGradient
+       id="rg"
+       gradientUnits="userSpaceOnUse"
+       cx="220"
+       cy="220"
+       r="405">
+      <stop
+         style="stop-color:#fff;stop-opacity:.3"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#fff;stop-opacity:.2"
+         offset=".2"
+         id="stop9" />
+      <stop
+         style="stop-color:#666;stop-opacity:.1"
+         offset=".6"
+         id="stop11" />
+      <stop
+         style="stop-color:#000;stop-opacity:.13"
+         offset="1"
+         id="stop13" />
+    </radialGradient>
+    <clipPath
+       id="clip-shield">
+      <path
+         id="shield"
+         d="m2,2v257c0,286 298,398 298,398c0,0 298-112 298-398V2z" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#rg"
+       id="radialGradient3018"
+       gradientUnits="userSpaceOnUse"
+       cx="220"
+       cy="220"
+       r="405" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4645-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4657-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4653-4"
+       effect="spiro" />
+  </defs>
+  <path
+     style="fill:#ffffff"
+     d="M 2 2 L 2 259 C 2 545 300 657 300 657 C 300 657 598 545 598 259 L 598 2 L 2 2 z "
+     id="rect18" />
+  <path
+     style="fill:#0000cc;stroke:none"
+     d="M 87.5 2 L 87.5 499.9375 C 113.99875 533.12568 143.79215 560.57767 172.5 582.71875 L 172.5 2 L 87.5 2 z M 257.5 2 L 257.5 637.1875 C 283.1544 650.66628 300 657 300 657 C 300 657 316.8456 650.66628 342.5 637.1875 L 342.5 2 L 257.5 2 z M 427.5 2 L 427.5 582.71875 C 456.20785 560.57767 486.00125 533.12568 512.5 499.9375 L 512.5 2 L 427.5 2 z "
+     id="path4637" />
+  <rect
+     style="fill:#ffdd00"
+     id="rect20"
+     height="165"
+     width="600"
+     y="0"
+     x="0" />
+  <g
+     transform="matrix(4.5348679,0,0,2.4370923,-0.76710985,7.3878173)"
+     id="g3477">
+    <path
+       d="m 66.336047,0.421634 -32.9369,12.9873 -10.0847,3.976499 -4.8005,1.8928 -10.0845004,3.9764 -8.0605,3.1781 -0.064245,37.8473 12.9137454,0 2.9537,2e-4 0,-21.6206 c 0,-3.3607 1.793,-6.4661 4.7035,-8.1464 2.9103,-1.6804 6.4961,-1.6804 9.4066,0 2.9104,1.6803 4.7033,4.7857 4.7033,8.1464 l 0,21.6206 2.9522,0 13.867,0 0,-34.119 c 0.0226,-8.0095 6.5219,-14.4906 14.5313,-14.4906 8.0095,0 14.5087,6.4811 14.5314,14.4906 l 0,34.119 13.867,0 2.9521,0 0,-21.6206 c 0,-3.3607 1.7928,-6.4661 4.703303,-8.1464 2.9105,-1.6804 6.4963,-1.6804 9.4066,0 2.9106,1.6803 4.7036,4.7857 4.7036,8.1464 l 0,21.6206 2.9539,-0.002 12.91475,-5e-4 -0.0656,-37.8453 -8.0604,-3.1781 -10.0846,-3.9764 -4.8005,-1.8928 -10.084703,-3.976499 -32.9369,-12.9873 0,0 z"
+       id="_40081736-1"
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 80.867447,30.160633 c -0.0227,-8.0095 -6.5219,-14.4906 -14.5314,-14.4906 -8.0094,0 -14.5087,6.4811 -14.5313,14.4906 l 0,34.119 4.006,0 0,-34.0782 c 0,-3.7602 2.0062,-7.235 5.2627,-9.1151 3.2565,-1.8802 7.2688,-1.8802 10.5253,0 3.2565,1.8801 5.2626,5.3549 5.2626,9.1151 l 0,34.0782 4.0061,0 0,-34.119 z"
+       id="_40725680-7"
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905"
+       inkscape:connector-curvature="0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="7.3106356"
+       x2="66.336052"
+       y1="0.42162791"
+       x1="66.336052"
+       class="fil2 str1"
+       id="_40288712-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26731503;stroke-linejoin:bevel"
+       y2="33.184635"
+       x2="132.37933"
+       y1="7.3106356"
+       x1="66.336052"
+       class="fil2 str1"
+       id="_40257160-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26712421;stroke-linejoin:bevel"
+       y2="33.184635"
+       x2="0.3876088"
+       y1="7.3106356"
+       x1="66.336052"
+       class="fil2 str1"
+       id="_40724592-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="64.279633"
+       x2="12.299146"
+       y1="64.279633"
+       x1="16.172148"
+       class="fil2 str1"
+       id="_40758320-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="64.279633"
+       x2="13.218347"
+       y1="42.62463"
+       x1="13.219947"
+       class="fil2 str1"
+       id="_40759424-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="64.279633"
+       x2="37.937744"
+       y1="42.62463"
+       x1="37.937744"
+       class="fil2 str1"
+       id="_40922888-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="64.279633"
+       x2="94.734047"
+       y1="42.62463"
+       x1="94.734047"
+       class="fil2 str1"
+       id="_40601696-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="64.278641"
+       x2="119.45405"
+       y1="42.62463"
+       x1="119.45205"
+       class="fil2 str1"
+       id="_40107976-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="63.435635"
+       x2="119.45205"
+       y1="63.427624"
+       x1="116.50005"
+       class="fil2 str1"
+       id="_40621304-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="63.435635"
+       x2="94.734047"
+       y1="63.427624"
+       x1="97.68705"
+       class="fil2 str1"
+       id="_40636544-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="42.69363"
+       x2="94.734047"
+       y1="42.685635"
+       x1="97.68705"
+       class="fil2 str1"
+       id="_40622392-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="45.286633"
+       x2="94.734047"
+       y1="45.278637"
+       x1="97.68705"
+       class="fil2 str1"
+       id="_40628920-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="47.879635"
+       x2="94.734047"
+       y1="47.871624"
+       x1="97.68705"
+       class="fil2 str1"
+       id="_40630008-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="50.472637"
+       x2="94.734047"
+       y1="50.463634"
+       x1="97.68705"
+       class="fil2 str1"
+       id="_40631096-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="53.064632"
+       x2="94.734047"
+       y1="53.056637"
+       x1="97.68705"
+       class="fil2 str1"
+       id="_40632184-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="55.657635"
+       x2="94.734047"
+       y1="55.649624"
+       x1="97.68705"
+       class="fil2 str1"
+       id="_40633272-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="58.250637"
+       x2="94.734047"
+       y1="58.241634"
+       x1="97.68705"
+       class="fil2 str1"
+       id="_40634360-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="60.842632"
+       x2="94.734047"
+       y1="60.834637"
+       x1="97.68705"
+       class="fil2 str1"
+       id="_40635448-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="42.69363"
+       x2="119.45205"
+       y1="42.685635"
+       x1="116.50005"
+       class="fil2 str1"
+       id="_40604864-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="45.286633"
+       x2="119.45205"
+       y1="45.278637"
+       x1="116.50005"
+       class="fil2 str1"
+       id="_40613688-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="47.879635"
+       x2="119.45205"
+       y1="47.871624"
+       x1="116.50005"
+       class="fil2 str1"
+       id="_40614776-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="50.472637"
+       x2="119.45205"
+       y1="50.463634"
+       x1="116.50005"
+       class="fil2 str1"
+       id="_40615864-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="53.064632"
+       x2="119.45205"
+       y1="53.056637"
+       x1="116.50005"
+       class="fil2 str1"
+       id="_40616952-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="55.657635"
+       x2="119.45205"
+       y1="55.649624"
+       x1="116.50005"
+       class="fil2 str1"
+       id="_40618040-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="58.250637"
+       x2="119.45205"
+       y1="58.241634"
+       x1="116.50005"
+       class="fil2 str1"
+       id="_40619128-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="60.842632"
+       x2="119.45205"
+       y1="60.834637"
+       x1="116.50005"
+       class="fil2 str1"
+       id="_40620216-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="27.572636"
+       x2="117.72305"
+       y1="20.683636"
+       x1="117.72305"
+       class="fil2 str1"
+       id="_40254856-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="31.562634"
+       x2="127.84305"
+       y1="24.673626"
+       x1="127.84305"
+       class="fil2 str1"
+       id="_40254280-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="31.504635"
+       x2="101.77305"
+       y1="34.168629"
+       x1="103.04405"
+       class="fil2 str1"
+       id="_40624568-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.539623"
+       x2="98.752052"
+       y1="35.717632"
+       x1="100.74405"
+       class="fil2 str1"
+       id="_40625656-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="36.285625"
+       x2="96.505051"
+       y1="37.807629"
+       x1="99.03405"
+       class="fil2 str1"
+       id="_40626744-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="39.45863"
+       x2="95.156052"
+       y1="40.223629"
+       x1="98.00705"
+       class="fil2 str1"
+       id="_40627832-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="31.504635"
+       x2="112.41405"
+       y1="34.168629"
+       x1="111.14305"
+       class="fil2 str1"
+       id="_40609336-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.539623"
+       x2="115.43405"
+       y1="35.717632"
+       x1="113.44205"
+       class="fil2 str1"
+       id="_40610424-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="36.285625"
+       x2="117.68205"
+       y1="37.807629"
+       x1="115.15205"
+       class="fil2 str1"
+       id="_40611512-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="39.45863"
+       x2="119.03005"
+       y1="40.223629"
+       x1="116.17905"
+       class="fil2 str1"
+       id="_40612600-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.385632"
+       x2="108.67105"
+       y1="30.475636"
+       x1="109.16605"
+       class="fil2 str1"
+       id="_40608248-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.385632"
+       x2="105.51605"
+       y1="30.475636"
+       x1="105.02105"
+       class="fil2 str1"
+       id="_40623480-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="23.581631"
+       x2="107.60205"
+       y1="16.692623"
+       x1="107.60205"
+       class="fil2 str1"
+       id="_40701512-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="42.69363"
+       x2="37.937744"
+       y1="42.685635"
+       x1="34.985546"
+       class="fil2 str1"
+       id="_40831488-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="45.286633"
+       x2="37.937744"
+       y1="45.278637"
+       x1="34.985546"
+       class="fil2 str1"
+       id="_40838016-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="47.879635"
+       x2="37.937744"
+       y1="47.871624"
+       x1="34.985546"
+       class="fil2 str1"
+       id="_40839104-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="50.472637"
+       x2="37.937744"
+       y1="50.463634"
+       x1="34.985546"
+       class="fil2 str1"
+       id="_40840192-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.2665112;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="56.635632"
+       x2="0.43908671"
+       y1="56.635632"
+       x1="13.218146"
+       class="fil2 str1"
+       id="_40753968" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.2665112;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="60.457638"
+       x2="0.40948656"
+       y1="60.457638"
+       x1="13.218146"
+       class="fil2 str1"
+       id="_40756144" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.635632"
+       x2="11.873946"
+       y1="60.457638"
+       x1="11.873946"
+       class="fil2 str1"
+       id="_40797520" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="55.657635"
+       x2="13.219947"
+       y1="55.649624"
+       x1="16.172148"
+       class="fil2 str1"
+       id="_40827136-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="58.250637"
+       x2="13.219947"
+       y1="58.241634"
+       x1="16.172148"
+       class="fil2 str1"
+       id="_40828224-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="60.842632"
+       x2="13.219947"
+       y1="60.834637"
+       x1="16.172148"
+       class="fil2 str1"
+       id="_40829312-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="63.435635"
+       x2="13.219947"
+       y1="63.427624"
+       x1="16.172148"
+       class="fil2 str1"
+       id="_40830400-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.28708273;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="0.27438238"
+       y1="41.347645"
+       x1="13.289845"
+       class="fil2 str1"
+       id="_40745264" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.29878703;stroke-linejoin:bevel"
+       y2="45.169628"
+       x2="0.47823694"
+       y1="45.169628"
+       x1="13.218146"
+       class="fil2 str1"
+       id="_40747440" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.32101819;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="0.34114102"
+       y1="48.991634"
+       x1="13.218146"
+       class="fil2 str1"
+       id="_40749616" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.2665112;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="52.813625"
+       x2="0.2807391"
+       y1="52.813625"
+       x1="13.218146"
+       class="fil2 str1"
+       id="_40751792" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="6.3746467"
+       y1="37.525631"
+       x1="6.3746467"
+       class="fil2 str1"
+       id="_40794248" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="6.3746467"
+       y1="45.169628"
+       x1="6.3746467"
+       class="fil2 str1"
+       id="_40795336" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="11.873946"
+       y1="52.813625"
+       x1="11.873946"
+       class="fil2 str1"
+       id="_40798608" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="11.873946"
+       y1="45.169628"
+       x1="11.873946"
+       class="fil2 str1"
+       id="_40799696" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="42.69363"
+       x2="13.219947"
+       y1="42.685635"
+       x1="16.172148"
+       class="fil2 str1"
+       id="_40813920-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="45.286633"
+       x2="13.219947"
+       y1="45.278637"
+       x1="16.172148"
+       class="fil2 str1"
+       id="_40822768-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="47.879635"
+       x2="13.219947"
+       y1="47.871624"
+       x1="16.172148"
+       class="fil2 str1"
+       id="_40823856-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="50.472637"
+       x2="13.219947"
+       y1="50.463634"
+       x1="16.172148"
+       class="fil2 str1"
+       id="_40824960-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="53.064632"
+       x2="13.219947"
+       y1="53.056637"
+       x1="16.172148"
+       class="fil2 str1"
+       id="_40826048-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="18.414623"
+       x2="38.173546"
+       y1="18.414623"
+       x1="57.837048"
+       class="fil2 str1"
+       id="_40735472-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="22.236629"
+       x2="28.480349"
+       y1="22.236629"
+       x1="54.181946"
+       class="fil2 str1"
+       id="_40736560-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="18.786947"
+       y1="26.058636"
+       x1="52.407646"
+       class="fil2 str1"
+       id="_40737648-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="29.881634"
+       x2="9.0937462"
+       y1="29.881634"
+       x1="51.808247"
+       class="fil2 str1"
+       id="_40738736-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="34.095345"
+       y1="33.703625"
+       x1="51.804646"
+       class="fil2 str1"
+       id="_40739824-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="19.591625"
+       x2="35.189747"
+       y1="12.702634"
+       x1="35.189747"
+       class="fil2 str1"
+       id="_40728944-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="27.572636"
+       x2="14.949546"
+       y1="20.683636"
+       x1="14.949546"
+       class="fil2 str1"
+       id="_40730032-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="31.562634"
+       x2="4.8293471"
+       y1="24.673626"
+       x1="4.8293471"
+       class="fil2 str1"
+       id="_40731120-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.2697874;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="33.703625"
+       x2="0.36794069"
+       y1="33.703625"
+       x1="17.062347"
+       class="fil2 str1"
+       id="_40740912-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.27351287;stroke-linejoin:bevel"
+       y2="37.525631"
+       x2="0.60963321"
+       y1="37.525631"
+       x1="14.336846"
+       class="fil2 str1"
+       id="_40743088-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="28.371347"
+       y1="22.279629"
+       x1="28.371347"
+       class="fil2 str1"
+       id="_40786624-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="30.619625"
+       x2="28.371347"
+       y1="29.881634"
+       x1="28.371347"
+       class="fil2 str1"
+       id="_40787712-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="33.870346"
+       y1="29.881634"
+       x1="33.870346"
+       class="fil2 str1"
+       id="_40788800-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="20.111629"
+       x2="33.870346"
+       y1="22.236629"
+       x1="33.870346"
+       class="fil2 str1"
+       id="_40789888-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.417629"
+       x2="17.372948"
+       y1="29.881634"
+       x1="17.372948"
+       class="fil2 str1"
+       id="_40790976-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="22.872047"
+       y1="29.881634"
+       x1="22.872047"
+       class="fil2 str1"
+       id="_40792072-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="6.3746467"
+       y1="30.953625"
+       x1="6.3746467"
+       class="fil2 str1"
+       id="_40793160-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="11.873946"
+       y1="37.525631"
+       x1="11.873946"
+       class="fil2 str1"
+       id="_40800784-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="28.784634"
+       x2="11.873946"
+       y1="29.881634"
+       x1="11.873946"
+       class="fil2 str1"
+       id="_40801872-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="23.581631"
+       x2="25.069748"
+       y1="16.692623"
+       x1="25.069748"
+       class="fil2 str1"
+       id="_40908744-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="30.201626"
+       x2="80.867447"
+       y1="30.201626"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40708096-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.132626"
+       x2="80.867447"
+       y1="33.132626"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40709360-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="36.063625"
+       x2="80.867447"
+       y1="36.063625"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40710448-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="38.993633"
+       x2="80.867447"
+       y1="38.993633"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40711536-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.924633"
+       x2="80.867447"
+       y1="41.924633"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40712624-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="44.855633"
+       x2="80.867447"
+       y1="44.855633"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40713712-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="47.785625"
+       x2="80.867447"
+       y1="47.785625"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40714800-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="50.716625"
+       x2="80.867447"
+       y1="50.716625"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40715888-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="53.647625"
+       x2="80.867447"
+       y1="53.647625"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40716976-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.578625"
+       x2="80.867447"
+       y1="56.578625"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40718064-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="59.508633"
+       x2="80.867447"
+       y1="59.508633"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40719152-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="62.439632"
+       x2="80.867447"
+       y1="62.439632"
+       x1="76.861351"
+       class="fil2 str1"
+       id="_40720240-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="59.508633"
+       x2="51.804646"
+       y1="59.508633"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40920712-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="62.439632"
+       x2="51.804646"
+       y1="62.439632"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40921800-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="60.457638"
+       x2="37.937744"
+       y1="60.457638"
+       x1="51.804646"
+       class="fil2 str1"
+       id="_40755056-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="64.279633"
+       x2="50.367947"
+       y1="60.457638"
+       x1="50.367947"
+       class="fil2 str1"
+       id="_40769216-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="64.279633"
+       x2="39.369644"
+       y1="60.457638"
+       x1="39.369644"
+       class="fil2 str1"
+       id="_40779008-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.635632"
+       x2="44.868744"
+       y1="60.457638"
+       x1="44.868744"
+       class="fil2 str1"
+       id="_40780096-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="53.064632"
+       x2="37.937744"
+       y1="53.056637"
+       x1="34.985546"
+       class="fil2 str1"
+       id="_40841280-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="55.657635"
+       x2="37.937744"
+       y1="55.649624"
+       x1="34.985546"
+       class="fil2 str1"
+       id="_40842368-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="58.250637"
+       x2="37.937744"
+       y1="58.241634"
+       x1="34.985546"
+       class="fil2 str1"
+       id="_40843456-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="60.842632"
+       x2="37.937744"
+       y1="60.834637"
+       x1="34.985546"
+       class="fil2 str1"
+       id="_40844544-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="63.435635"
+       x2="37.937744"
+       y1="63.427624"
+       x1="34.985546"
+       class="fil2 str1"
+       id="_40845632-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="37.525631"
+       x2="36.820946"
+       y1="37.525631"
+       x1="51.804646"
+       class="fil2 str1"
+       id="_40742000-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="37.867947"
+       y1="41.347645"
+       x1="51.804646"
+       class="fil2 str1"
+       id="_40744176-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="45.169628"
+       x2="37.937744"
+       y1="45.169628"
+       x1="51.804646"
+       class="fil2 str1"
+       id="_40746352-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="37.937744"
+       y1="48.991634"
+       x1="51.804646"
+       class="fil2 str1"
+       id="_40748528-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="52.813625"
+       x2="37.937744"
+       y1="52.813625"
+       x1="51.804646"
+       class="fil2 str1"
+       id="_40750704-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.635632"
+       x2="37.937744"
+       y1="56.635632"
+       x1="51.804646"
+       class="fil2 str1"
+       id="_40752880-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="50.367947"
+       y1="29.881634"
+       x1="50.367947"
+       class="fil2 str1"
+       id="_40764864-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="50.367947"
+       y1="37.525631"
+       x1="50.367947"
+       class="fil2 str1"
+       id="_40765952-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="50.367947"
+       y1="45.169628"
+       x1="50.367947"
+       class="fil2 str1"
+       id="_40767040-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.635632"
+       x2="50.367947"
+       y1="52.813625"
+       x1="50.367947"
+       class="fil2 str1"
+       id="_40768128-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="18.414623"
+       x2="39.369644"
+       y1="17.94363"
+       x1="39.369644"
+       class="fil2 str1"
+       id="_40772480-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="39.369644"
+       y1="22.236629"
+       x1="39.369644"
+       class="fil2 str1"
+       id="_40773568-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="39.369644"
+       y1="29.881634"
+       x1="39.369644"
+       class="fil2 str1"
+       id="_40774656-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="39.369644"
+       y1="37.525631"
+       x1="39.369644"
+       class="fil2 str1"
+       id="_40775744-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="39.369644"
+       y1="45.169628"
+       x1="39.369644"
+       class="fil2 str1"
+       id="_40776832-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.635632"
+       x2="39.369644"
+       y1="52.813625"
+       x1="39.369644"
+       class="fil2 str1"
+       id="_40777920-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="44.868744"
+       y1="52.813625"
+       x1="44.868744"
+       class="fil2 str1"
+       id="_40781184-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="44.868744"
+       y1="45.169628"
+       x1="44.868744"
+       class="fil2 str1"
+       id="_40782272-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="44.868744"
+       y1="37.525631"
+       x1="44.868744"
+       class="fil2 str1"
+       id="_40783360-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="44.868744"
+       y1="29.881634"
+       x1="44.868744"
+       class="fil2 str1"
+       id="_40784448-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="18.414623"
+       x2="44.868744"
+       y1="22.236629"
+       x1="44.868744"
+       class="fil2 str1"
+       id="_40785536-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="30.201626"
+       x2="51.804646"
+       y1="30.201626"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40909832-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.132626"
+       x2="51.804646"
+       y1="33.132626"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40910920-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="36.063625"
+       x2="51.804646"
+       y1="36.063625"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40912008-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="38.993633"
+       x2="51.804646"
+       y1="38.993633"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40913096-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.924633"
+       x2="51.804646"
+       y1="41.924633"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40914184-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="44.855633"
+       x2="51.804646"
+       y1="44.855633"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40915272-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="47.785625"
+       x2="51.804646"
+       y1="47.785625"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40916360-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="50.716625"
+       x2="51.804646"
+       y1="50.716625"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40917448-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="53.647625"
+       x2="51.804646"
+       y1="53.647625"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40918536-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.578625"
+       x2="51.804646"
+       y1="56.578625"
+       x1="55.810745"
+       class="fil2 str1"
+       id="_40919624-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="11.610639"
+       x2="77.241951"
+       y1="4.7216311"
+       x1="77.241951"
+       class="fil2 str1"
+       id="_40256200-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="10.770627"
+       x2="75.112251"
+       y1="10.770627"
+       x1="66.336052"
+       class="fil2 str1"
+       id="_40253320-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="14.592633"
+       x2="84.805351"
+       y1="14.592633"
+       x1="47.866745"
+       class="fil2 str1"
+       id="_40252936-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="10.770627"
+       x2="71.305847"
+       y1="9.2696352"
+       x1="71.305847"
+       class="fil2 str1"
+       id="_40107592-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="16.546619"
+       x2="71.305847"
+       y1="14.592633"
+       x1="71.305847"
+       class="fil2 str1"
+       id="_40105672-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="11.438626"
+       x2="76.805046"
+       y1="14.592633"
+       x1="76.805046"
+       class="fil2 str1"
+       id="_40104712-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="19.79063"
+       x2="67.883148"
+       y1="15.827634"
+       x1="68.472153"
+       class="fil2 str1"
+       id="_40594080-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="17.085629"
+       x2="72.591553"
+       y1="20.701626"
+       x1="70.867149"
+       class="fil2 str1"
+       id="_40595168-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="19.478634"
+       x2="76.143646"
+       y1="22.435635"
+       x1="73.439751"
+       class="fil2 str1"
+       id="_40596256-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="22.707645"
+       x2="78.785851"
+       y1="24.773632"
+       x1="75.353546"
+       class="fil2 str1"
+       id="_40597344-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.438625"
+       x2="80.37175"
+       y1="27.475636"
+       x1="76.502052"
+       class="fil2 str1"
+       id="_40598432-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="14.592633"
+       x2="66.336052"
+       y1="10.770627"
+       x1="66.336052"
+       class="fil2 str1"
+       id="_40638720-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="11.610639"
+       x2="55.430145"
+       y1="4.7216311"
+       x1="55.430145"
+       class="fil2 str1"
+       id="_40726768-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="15.600636"
+       x2="45.309944"
+       y1="8.7116365"
+       x1="45.309944"
+       class="fil2 str1"
+       id="_40727856-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="10.770627"
+       x2="57.559948"
+       y1="10.770627"
+       x1="66.336052"
+       class="fil2 str1"
+       id="_40733296-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="10.770627"
+       x2="61.366344"
+       y1="9.2696352"
+       x1="61.366344"
+       class="fil2 str1"
+       id="_40760512-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="16.546619"
+       x2="61.366344"
+       y1="14.592633"
+       x1="61.366344"
+       class="fil2 str1"
+       id="_40761600-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="18.414623"
+       x2="50.367947"
+       y1="14.592633"
+       x1="50.367947"
+       class="fil2 str1"
+       id="_40762688-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="50.367947"
+       y1="22.236629"
+       x1="50.367947"
+       class="fil2 str1"
+       id="_40763776-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="18.414623"
+       x2="55.867046"
+       y1="20.123623"
+       x1="55.867046"
+       class="fil2 str1"
+       id="_40770304-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="11.438626"
+       x2="55.867046"
+       y1="14.592633"
+       x1="55.867046"
+       class="fil2 str1"
+       id="_40771392-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="19.79063"
+       x2="64.788948"
+       y1="15.827634"
+       x1="64.199951"
+       class="fil2 str1"
+       id="_40805136-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="17.085629"
+       x2="60.080547"
+       y1="20.701626"
+       x1="61.804943"
+       class="fil2 str1"
+       id="_40806224-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="19.478634"
+       x2="56.528545"
+       y1="22.435635"
+       x1="59.232449"
+       class="fil2 str1"
+       id="_40807312-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="22.707645"
+       x2="53.886246"
+       y1="24.773632"
+       x1="57.318546"
+       class="fil2 str1"
+       id="_40808400-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.438625"
+       x2="52.300446"
+       y1="27.475636"
+       x1="56.170044"
+       class="fil2 str1"
+       id="_40809488-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="131.90105"
+       y1="33.703625"
+       x1="115.61005"
+       class="fil2 str1"
+       id="_40243928" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.635632"
+       x2="120.79805"
+       y1="60.457638"
+       x1="120.79805"
+       class="fil2 str1"
+       id="_40106056-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="126.29704"
+       y1="30.953625"
+       x1="126.29704"
+       class="fil2 str1"
+       id="_40246552-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="120.79805"
+       y1="37.525631"
+       x1="120.79805"
+       class="fil2 str1"
+       id="_40246040-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="126.29704"
+       y1="45.169628"
+       x1="126.29704"
+       class="fil2 str1"
+       id="_40289672-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="120.79805"
+       y1="45.169628"
+       x1="120.79805"
+       class="fil2 str1"
+       id="_40296776-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="120.79805"
+       y1="52.813625"
+       x1="120.79805"
+       class="fil2 str1"
+       id="_40287728-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.2665112;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="37.525631"
+       x2="132.06799"
+       y1="37.525631"
+       x1="118.34174"
+       class="fil2 str1"
+       id="_40243736" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.2665112;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="41.347645"
+       x2="132.10123"
+       y1="41.347645"
+       x1="119.39866"
+       class="fil2 str1"
+       id="_40243544" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="126.29704"
+       y1="37.525631"
+       x1="126.29704"
+       class="fil2 str1"
+       id="_40295384-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.417629"
+       x2="115.29905"
+       y1="29.881634"
+       x1="115.29905"
+       class="fil2 str1"
+       id="_40100488-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="28.784634"
+       x2="120.79805"
+       y1="29.881634"
+       x1="120.79805"
+       class="fil2 str1"
+       id="_40246936-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="30.619625"
+       x2="104.30105"
+       y1="29.881634"
+       x1="104.30105"
+       class="fil2 str1"
+       id="_40100872-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="29.881634"
+       x2="123.57805"
+       y1="29.881634"
+       x1="80.863846"
+       class="fil2 str1"
+       id="_40093792-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="109.80005"
+       y1="29.881634"
+       x1="109.80005"
+       class="fil2 str1"
+       id="_40244120-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="104.30105"
+       y1="22.279629"
+       x1="104.30105"
+       class="fil2 str1"
+       id="_40106632-5" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="18.414623"
+       x2="76.805046"
+       y1="20.123623"
+       x1="76.805046"
+       class="fil2 str1"
+       id="_40293768-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="18.414623"
+       x2="94.499046"
+       y1="18.414623"
+       x1="74.835152"
+       class="fil2 str1"
+       id="_40252360-2" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="22.236629"
+       x2="104.19205"
+       y1="22.236629"
+       x1="78.49025"
+       class="fil2 str1"
+       id="_40297312-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="113.88505"
+       y1="26.058636"
+       x1="80.26445"
+       class="fil2 str1"
+       id="_40092640-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="19.591625"
+       x2="97.482048"
+       y1="12.702634"
+       x1="97.482048"
+       class="fil2 str1"
+       id="_40255240-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="20.111629"
+       x2="98.802048"
+       y1="22.236629"
+       x1="98.802048"
+       class="fil2 str1"
+       id="_40101832-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="98.802048"
+       y1="29.881634"
+       x1="98.802048"
+       class="fil2 str1"
+       id="_40247512-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="98.577049"
+       y1="33.703625"
+       x1="80.867447"
+       class="fil2 str1"
+       id="_40096672-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="94.734047"
+       y1="48.991634"
+       x1="80.867447"
+       class="fil2 str1"
+       id="_40097696-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="15.600636"
+       x2="87.362152"
+       y1="8.7116365"
+       x1="87.362152"
+       class="fil2 str1"
+       id="_40255816-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.635632"
+       x2="87.803452"
+       y1="60.457638"
+       x1="87.803452"
+       class="fil2 str1"
+       id="_40107016-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="82.304146"
+       y1="22.236629"
+       x1="82.304146"
+       class="fil2 str1"
+       id="_40104328-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="93.302452"
+       y1="22.236629"
+       x1="93.302452"
+       class="fil2 str1"
+       id="_40103752-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="18.414623"
+       x2="93.302452"
+       y1="17.94363"
+       x1="93.302452"
+       class="fil2 str1"
+       id="_40103368-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="18.414623"
+       x2="82.304146"
+       y1="14.592633"
+       x1="82.304146"
+       class="fil2 str1"
+       id="_40102792-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="18.414623"
+       x2="87.803452"
+       y1="22.236629"
+       x1="87.803452"
+       class="fil2 str1"
+       id="_40102408-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="93.302452"
+       y1="29.881634"
+       x1="93.302452"
+       class="fil2 str1"
+       id="_40101448-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="82.304146"
+       y1="29.881634"
+       x1="82.304146"
+       class="fil2 str1"
+       id="_40099912-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="26.058636"
+       x2="87.803452"
+       y1="29.881634"
+       x1="87.803452"
+       class="fil2 str1"
+       id="_40250776-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="82.304146"
+       y1="37.525631"
+       x1="82.304146"
+       class="fil2 str1"
+       id="_40250392-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="93.302452"
+       y1="37.525631"
+       x1="93.302452"
+       class="fil2 str1"
+       id="_40249816-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.703625"
+       x2="87.803452"
+       y1="37.525631"
+       x1="87.803452"
+       class="fil2 str1"
+       id="_40249432-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="93.302452"
+       y1="45.169628"
+       x1="93.302452"
+       class="fil2 str1"
+       id="_40248856-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="82.304146"
+       y1="45.169628"
+       x1="82.304146"
+       class="fil2 str1"
+       id="_40248472-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="48.991634"
+       x2="87.803452"
+       y1="52.813625"
+       x1="87.803452"
+       class="fil2 str1"
+       id="_40247896-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="60.457638"
+       x2="94.734047"
+       y1="60.457638"
+       x1="80.867447"
+       class="fil2 str1"
+       id="_40098592-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.635632"
+       x2="94.734047"
+       y1="56.635632"
+       x1="80.867447"
+       class="fil2 str1"
+       id="_40098400-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="52.813625"
+       x2="94.734047"
+       y1="52.813625"
+       x1="80.867447"
+       class="fil2 str1"
+       id="_40098208-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="45.169628"
+       x2="94.734047"
+       y1="45.169628"
+       x1="80.867447"
+       class="fil2 str1"
+       id="_40097504-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="94.804047"
+       y1="41.347645"
+       x1="80.867447"
+       class="fil2 str1"
+       id="_40097248-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="37.525631"
+       x2="95.851051"
+       y1="37.525631"
+       x1="80.867447"
+       class="fil2 str1"
+       id="_40096864-7" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.635632"
+       x2="93.302452"
+       y1="52.813625"
+       x1="93.302452"
+       class="fil2 str1"
+       id="_40299112-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="56.635632"
+       x2="82.304146"
+       y1="52.813625"
+       x1="82.304146"
+       class="fil2 str1"
+       id="_40586576-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="64.279633"
+       x2="82.304146"
+       y1="60.457638"
+       x1="82.304146"
+       class="fil2 str1"
+       id="_40587760-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="64.279633"
+       x2="93.302452"
+       y1="60.457638"
+       x1="93.302452"
+       class="fil2 str1"
+       id="_40588848-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="41.347645"
+       x2="87.803452"
+       y1="45.169628"
+       x1="87.803452"
+       class="fil2 str1"
+       id="_40599520-5" />
+    <polygon
+       points="96.9681,172.698 95.6938,171.52 94.4249,170.343 94.4249,170.343 93.0392,171.49 91.6534,172.63 91.7755,172.63 91.7755,211.336 96.7823,211.336 96.7823,172.698 "
+       transform="translate(-6.5339534,-147.05637)"
+       id="path14118"
+       style="fill:#000000;stroke:#333333;stroke-width:0.2906535" />
+    <path
+       d="m 87.800947,23.264633 0,41.0149 0,0 m 0,-41.0149 0,0 0,0 z"
+       id="path14120"
+       style="fill:#000000;stroke:#333333;stroke-width:0.2906535"
+       inkscape:connector-curvature="0" />
+    <polygon
+       points="54.0384,172.698 52.7641,171.52 51.4952,170.343 51.4952,170.343 50.1095,171.49 48.7237,172.63 48.8458,172.63 48.8458,211.336 53.8526,211.336 53.8526,172.698 "
+       transform="translate(-6.5339534,-147.05637)"
+       id="path14118_1"
+       style="fill:#000000;stroke:#333333;stroke-width:0.2906535" />
+    <path
+       d="m 44.871247,23.264633 0,41.0149 0,0 m 0,-41.0149 0,0 0,0 z"
+       id="path14120_2"
+       style="fill:#000000;stroke:#333333;stroke-width:0.2906535"
+       inkscape:connector-curvature="0" />
+    <line
+       id="line6112"
+       class="fil2 str1"
+       x1="6.3746467"
+       y1="53.002453"
+       x2="6.3746467"
+       y2="56.430843"
+       style="fill:#000000;stroke:#333333;stroke-width:0.25236568;stroke-linejoin:bevel" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26981294;stroke-linejoin:bevel"
+       y2="64.160736"
+       x2="6.3746467"
+       y1="60.241909"
+       x1="6.3746467"
+       class="fil2 str1"
+       id="line6114" />
+    <line
+       id="line6116"
+       class="fil2 str1"
+       x1="119.39866"
+       y1="45.298733"
+       x2="132.10123"
+       y2="45.298733"
+       style="fill:#000000;stroke:#333333;stroke-width:0.2665112;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.2665112;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="49.148281"
+       x2="132.10123"
+       y1="49.148281"
+       x1="119.39866"
+       class="fil2 str1"
+       id="line6118" />
+    <line
+       id="line6120"
+       class="fil2 str1"
+       x1="119.39866"
+       y1="52.737942"
+       x2="132.10123"
+       y2="52.737942"
+       style="fill:#000000;stroke:#333333;stroke-width:0.2665112;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.2665112;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       y2="56.745861"
+       x2="132.10123"
+       y1="56.745861"
+       x1="119.39866"
+       class="fil2 str1"
+       id="line6122" />
+    <line
+       id="line6124"
+       class="fil2 str1"
+       x1="119.39866"
+       y1="60.437038"
+       x2="132.10123"
+       y2="60.437038"
+       style="fill:#000000;stroke:#333333;stroke-width:0.2665112;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none" />
+    <line
+       id="line6126"
+       class="fil2 str1"
+       x1="126.29704"
+       y1="52.576626"
+       x2="126.29704"
+       y2="56.779781"
+       style="fill:#000000;stroke:#333333;stroke-width:0.27942953;stroke-linejoin:bevel" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26976016;stroke-linejoin:bevel"
+       y2="64.488235"
+       x2="126.29704"
+       y1="60.570934"
+       x1="126.29704"
+       class="fil2 str1"
+       id="line6128" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="39.45863"
+       x2="37.516247"
+       y1="40.223629"
+       x1="34.664745"
+       class="fil2 str1"
+       id="_40836928-1" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="39.45863"
+       x2="13.641646"
+       y1="40.223629"
+       x1="16.493048"
+       class="fil2 str1"
+       id="_40821680-0" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.385632"
+       x2="24.001448"
+       y1="30.475636"
+       x1="23.506247"
+       class="fil2 str1"
+       id="_40817328-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="31.504635"
+       x2="20.258448"
+       y1="34.168629"
+       x1="21.529346"
+       class="fil2 str1"
+       id="_40818416-9" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.539623"
+       x2="17.237747"
+       y1="35.717632"
+       x1="19.230146"
+       class="fil2 str1"
+       id="_40819504-6" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="36.285625"
+       x2="14.990447"
+       y1="37.807629"
+       x1="17.519747"
+       class="fil2 str1"
+       id="_40820592-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.385632"
+       x2="27.156446"
+       y1="30.475636"
+       x1="27.651445"
+       class="fil2 str1"
+       id="_40832576-3" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="31.504635"
+       x2="30.899248"
+       y1="34.168629"
+       x1="29.628447"
+       class="fil2 str1"
+       id="_40833664-4" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="33.539623"
+       x2="33.920147"
+       y1="35.717632"
+       x1="31.927649"
+       class="fil2 str1"
+       id="_40834752-8" />
+    <line
+       style="fill:#000000;stroke:#333333;stroke-width:0.26645905;stroke-linejoin:bevel"
+       y2="36.285625"
+       x2="36.167446"
+       y1="37.807629"
+       x1="33.638145"
+       class="fil2 str1"
+       id="_40835840-4" />
+    <g
+       transform="translate(-6.6418725,-84.967517)"
+       id="g8240"
+       style="fill:none;stroke:#333333;stroke-width:1.06583619;stroke-opacity:1">
+      <path
+         d="m 19.816056,127.64703 c 0.508432,-6.90079 4.358823,-12.16841 12.644127,-12.41219"
+         id="path7195"
+         style="fill:none;stroke:#333333;stroke-width:0.30080268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 44.523889,127.64703 C 44.015457,120.74625 40.165066,115.47862 31.879762,115.23485"
+         id="path7197"
+         style="fill:none;stroke:#333333;stroke-width:0.30080268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(74.87876,-84.967517)"
+       id="g8252"
+       style="fill:none;stroke:#333333;stroke-width:1.06583619;stroke-opacity:1">
+      <path
+         d="m 19.816056,127.64703 c 0.508432,-6.90079 4.358823,-12.16841 12.644127,-12.41219"
+         id="path8254"
+         style="fill:none;stroke:#333333;stroke-width:0.30080268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 44.523889,127.64703 C 44.015457,120.74625 40.165066,115.47862 31.879762,115.23485"
+         id="path8256"
+         style="fill:none;stroke:#333333;stroke-width:0.30080268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <use
+     id="shine"
+     xlink:href="#shield"
+     stroke-width="3"
+     stroke="#000"
+     fill="url(#rg)" />
+</svg>

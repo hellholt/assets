@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600">
+<defs>
+  <radialGradient id="rg" gradientUnits="userSpaceOnUse" cx="220" cy="220" r="405">
+    <stop style="stop-color:#fff;stop-opacity:.3" offset="0"/>
+    <stop style="stop-color:#fff;stop-opacity:.2" offset=".2"/>
+    <stop style="stop-color:#666;stop-opacity:.1" offset=".6"/>
+    <stop style="stop-color:#000;stop-opacity:.13" offset="1"/>
+  </radialGradient>
+  <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#222;" />
+    <stop offset="50%" style="stop-color:#222;" />
+    <stop offset="50%" style="stop-color:#000;" />
+    <stop offset="100%" style="stop-color:#000;" />
+  </linearGradient>
+  <linearGradient id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#222;" />
+    <stop offset="50%" style="stop-color:#222;" />
+    <stop offset="50%" style="stop-color:#000;" />
+    <stop offset="100%" style="stop-color:#000;" />
+  </linearGradient>
+  <radialGradient id="grad3" cx="33%" cy="33%" r="100%">
+    <stop offset="0%" style="stop-color:#000;" />
+    <stop offset="50%" style="stop-color:#000;" />
+    <stop offset="50%" style="stop-color:#222;" />
+    <stop offset="100%" style="stop-color:#222;" />
+  </radialGradient>
+  <circle id="shield" cx="300" cy="300" r="298"/>
+</defs>
+<use id="background" xlink:href="#shield" fill="#fd7"/>
+<path id="vertical" d="m100,100 h20 v350 l-10,50 -10-50 z" fill="url(#grad1)"/>
+<use xlink:href="#vertical" x="95"/>
+<use xlink:href="#vertical" x="190"/>
+<use xlink:href="#vertical" x="285"/>
+<use xlink:href="#vertical" x="380"/>
+<path fill="url(#grad2)" d="m110,110 10,10 h75 l10,-10 10,10 h75 l10,-10 10,10 h75 l10,-10 10,10 h75 l20,-20 H110z"/>
+<g id="bar">
+  <g id="segment">
+    <path fill="url(#grad2)" d="m110,205 10,10 h 75 l10,-10 -10,-10 h-75z"/>
+    <circle fill="url(#grad3)" id="nail" cx="110" cy="205" r="5"/>
+  </g>
+  <use xlink:href="#segment" x="95"/>
+  <use xlink:href="#segment" x="190"/>
+  <use xlink:href="#segment" x="285"/>
+  <use xlink:href="#nail" x="380"/>
+</g>
+<use xlink:href="#bar" y="95"/>
+<use xlink:href="#bar" y="190"/>
+<use xlink:href="#nail" y="-95"/>
+<use xlink:href="#nail" y="-95" x="95"/>
+<use xlink:href="#nail" y="-95" x="190"/>
+<use xlink:href="#nail" y="-95" x="285"/>
+<use xlink:href="#nail" y="-95" x="380"/>
+<use id="shine" xlink:href="#shield" fill="url(#rg)" stroke="#000" stroke-width="3"/>
+</svg>
