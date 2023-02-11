@@ -1,0 +1,8 @@
+description: |-
+  My laptop.  Don't touch.
+prompt:
+  colors:
+    primary: 226
+    secondary: 244
+    tertiary: 248
+  emoji: 🦑
