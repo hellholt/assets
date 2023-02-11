@@ -1,0 +1,22 @@
+description: |-
+  Dell R720XD Proxmox Server #3
+prompt:
+  colors:
+    primary: 220
+    secondary: 32
+    tertiary: 58
+  emoji: ☀️
+pve_cluster_id: rain_house
+pve_ip_address: 10.3.0.2
+web:
+  protocol: 'https'
+  port: 443
+  additional_backends:
+    - name: 'pbs'
+      url: 'https://pbs.lefford.hellholt.net:8007/'
+homer:
+  applications:
+    - name: 'Proxmox VE'
+      subdomain: 'pve'
+    - name: 'Proxmox Backup Server'
+      subdomain: 'pbs'

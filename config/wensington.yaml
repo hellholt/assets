@@ -1,0 +1,5 @@
+description: |-
+  Aruba S2500 48-Port PoE Switch
+web:
+  protocol: 'https'
+  port: 4343

@@ -1,0 +1,11 @@
+description: |-
+  Dell R210 II Firewall/Router (OpnSense)
+prompt:
+  colors:
+    primary: 65
+    secondary: 172
+    tertiary: 52
+  emoji: 🔥
+web:
+  protocol: 'http'
+  port: 8080

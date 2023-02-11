@@ -1,0 +1,13 @@
+description: |-
+  Proxmox LXC Container - Kubernetes Node (Mistwood)
+prompt:
+  colors:
+    primary: 223
+    secondary: 59
+    tertiary: 102
+  emoji: 💀
+pve_host_index: 12
+pve_ip_address: 10.2.0.112
+pve_mac_address: de:fe:c8:02:00:70
+pve_rootfs_size: 32
+pve_vm_id: '112'

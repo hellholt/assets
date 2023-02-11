@@ -1,0 +1,10 @@
+description: |-
+  Dell R720 Proxmox Server #1
+prompt:
+  colors:
+    primary: 179
+    secondary: 160
+    tertiary: 138
+  emoji: 🐴
+pve_cluster_id: grey_garden
+pve_ip_address: 10.1.0.2

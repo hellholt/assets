@@ -1,0 +1,13 @@
+prompt:
+  colors:
+    primary: 124
+    secondary: 220
+    tertiary: 52
+  emoji: ✋
+pve_host_index: 0
+pve_ip_address: 10.2.0.100
+pve_mac_address: de:fe:c8:02:00:64
+pve_vm_id: '100'
+web:
+  protocol: 'http'
+  port: 80

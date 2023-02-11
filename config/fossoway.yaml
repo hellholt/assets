@@ -1,0 +1,8 @@
+description: |
+  My primary personal laptop.
+prompt:
+  colors:
+    primary: 220
+    secondary: 22
+    tertiary: 160
+  emoji: 🍎

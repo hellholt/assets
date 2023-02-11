@@ -1,0 +1,12 @@
+description: |-
+  Proxmox LXC Container - Kubernetes Master (Longtable)
+prompt:
+  colors:
+    primary: 28
+    secondary: 131
+    tertiary: 108
+  emoji: 🌰
+pve_host_index: 11
+pve_ip_address: 10.1.0.111
+pve_mac_address: de:fe:c8:01:00:6f
+pve_vm_id: '111'

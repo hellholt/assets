@@ -1,0 +1,15 @@
+description: |-
+  Proxmox LXC Container - Currently Unused
+prompt:
+  colors:
+    primary: 124
+    secondary: 220
+    tertiary: 58
+  emoji: 🦢
+pve_host_index: 2
+pve_ip_address: 10.2.0.102
+pve_mac_address: de:fe:c8:02:00:66
+pve_vm_id: '102'
+web:
+  protocol: 'http'
+  port: 8123

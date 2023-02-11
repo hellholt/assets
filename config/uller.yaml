@@ -1,0 +1,16 @@
+description: |-
+  Synology DS2415+ NAS
+prompt:
+  colors:
+    primary: 124
+    secondary: 11
+    tertiary: 136
+  emoji: 🔥
+web:
+  protocol: 'https'
+  port: 5001
+homer:
+  applications:
+    - name: 'Synology DiskStation Manager'
+      subdomain: 'dsm'
+      url: 'https://uller.hellholt.net:5001/'

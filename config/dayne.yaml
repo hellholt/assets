@@ -1,0 +1,19 @@
+description: |-
+  Synology DS1813+ NAS
+prompt:
+  colors:
+    primary: 140
+    secondary: 225
+    tertiary: 59
+  emoji: 💫
+web:
+  protocol: 'https'
+  port: 5001
+  additional_backends:
+    - name: 'webdav'
+      url: 'https://dayne.hellholt.net:5006/'
+homer:
+  applications:
+    - name: 'Synology DiskStation Manager'
+      subdomain: 'dsm'
+      url: 'https://dayne.hellholt.net:5001/'

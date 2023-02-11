@@ -1,0 +1,12 @@
+description: |-
+  Proxmox LXC Container - Kubernetes Node (Karhold)
+prompt:
+  colors:
+    primary: 38
+    secondary: 188
+    tertiary: 178
+  emoji: 📘
+pve_host_index: 10
+pve_ip_address: 10.2.0.110
+pve_mac_address: de:fe:c8:02:00:6e
+pve_vm_id: '110'

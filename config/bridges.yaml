@@ -1,0 +1,8 @@
+description: |-
+  Raspberry Pi 3B+ (Home Assistant Client)
+prompt:
+  colors:
+    primary: 20
+    secondary: 223
+    tertiary: 143
+  emoji: 🌉

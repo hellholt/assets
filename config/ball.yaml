@@ -1,0 +1,15 @@
+description: |
+  Proxmox LXC Container - SSH Certificate Authority
+prompt:
+  colors:
+    primary: 160
+    secondary: 102
+    tertiary: 160
+  emoji: ⚪
+pve_host_index: 1
+pve_ip_address: 10.1.0.101
+pve_mac_address: de:fe:c8:01:00:65
+pve_vm_id: '101'
+pve_cores: 2
+pve_memory_size: 2048
+pve_rootfs_size: 16

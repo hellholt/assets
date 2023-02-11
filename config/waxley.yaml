@@ -1,0 +1,12 @@
+description: |-
+  Proxmox LXC Container - Currently Unused
+prompt:
+  colors:
+    primary: 145
+    secondary: 102
+    tertiary: 160
+  emoji: 🕯️"
+pve_host_index: 22
+pve_ip_address: 10.1.0.122
+pve_mac_address: de:fe:c8:01:00:7a
+pve_vm_id: '122'

@@ -1,0 +1,13 @@
+prompt:
+  colors:
+    primary: 220
+    secondary: 18
+    tertiary: 94
+  emoji: 🐞
+pve_host_index: 1
+pve_ip_address: 10.2.0.101
+pve_mac_address: de:fe:c8:02:00:65
+pve_vm_id: '101'
+web:
+  protocol: 'https'
+  port: 8443
