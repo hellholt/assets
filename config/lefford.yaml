@@ -5,7 +5,7 @@ prompt:
     primary: 220
     secondary: 32
     tertiary: 58
-  emoji: ☀️
+  emoji: ☀️ 
 pve_cluster_id: rain_house
 pve_ip_address: 10.3.0.2
 web:
