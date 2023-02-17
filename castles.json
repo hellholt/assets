@@ -672,8 +672,8 @@
     "project_url": ""
   },
   "Sunhouse": {
-    "used": false,
-    "project_url": ""
+    "used": true,
+    "project_url": "https://github.com/ndouglas/sunhouse/"
   },
   "Sunspear": {
     "used": false,
