@@ -1,0 +1,786 @@
+{
+  "Acorn Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Aegonfort": {
+    "used": false,
+    "project_url": ""
+  },
+  "Amberly": {
+    "used": false,
+    "project_url": ""
+  },
+  "Antlers": {
+    "used": false,
+    "project_url": ""
+  },
+  "Appleton": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ashemark": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ashford": {
+    "used": false,
+    "project_url": ""
+  },
+  "Atranta": {
+    "used": false,
+    "project_url": ""
+  },
+  "Bandallon": {
+    "used": false,
+    "project_url": ""
+  },
+  "Banefort": {
+    "used": false,
+    "project_url": ""
+  },
+  "Barrow Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Bitterbridge": {
+    "used": false,
+    "project_url": ""
+  },
+  "Blackcrown": {
+    "used": false,
+    "project_url": ""
+  },
+  "Blackhaven": {
+    "used": false,
+    "project_url": ""
+  },
+  "Blackmont": {
+    "used": false,
+    "project_url": ""
+  },
+  "Blackpool": {
+    "used": false,
+    "project_url": ""
+  },
+  "Blacktyde": {
+    "used": false,
+    "project_url": ""
+  },
+  "Breakwater": {
+    "used": false,
+    "project_url": ""
+  },
+  "Brightwater": {
+    "used": false,
+    "project_url": ""
+  },
+  "Broad Arch": {
+    "used": false,
+    "project_url": ""
+  },
+  "Bronzegate": {
+    "used": false,
+    "project_url": ""
+  },
+  "Brownhollow": {
+    "used": false,
+    "project_url": ""
+  },
+  "Castamere": {
+    "used": false,
+    "project_url": ""
+  },
+  "Casterly Rock": {
+    "used": false,
+    "project_url": ""
+  },
+  "Cerwyn": {
+    "used": false,
+    "project_url": ""
+  },
+  "Castlewood": {
+    "used": false,
+    "project_url": ""
+  },
+  "Cider Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Coldmoat": {
+    "used": false,
+    "project_url": ""
+  },
+  "Coldwater Burn": {
+    "used": false,
+    "project_url": ""
+  },
+  "Cornfield": {
+    "used": false,
+    "project_url": ""
+  },
+  "Corpse Lake": {
+    "used": false,
+    "project_url": ""
+  },
+  "Crag": {
+    "used": false,
+    "project_url": ""
+  },
+  "Crakehall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Crow Spike Keep": {
+    "used": false,
+    "project_url": ""
+  },
+  "Crow's Nest": {
+    "used": false,
+    "project_url": ""
+  },
+  "Darkdell": {
+    "used": true,
+    "project_url": "https://github.com/ndouglas/blog/"
+  },
+  "Darry": {
+    "used": false,
+    "project_url": ""
+  },
+  "Deep Den": {
+    "used": false,
+    "project_url": ""
+  },
+  "Deepdown": {
+    "used": false,
+    "project_url": ""
+  },
+  "Deepwood Motte": {
+    "used": false,
+    "project_url": ""
+  },
+  "Downdelving": {
+    "used": true,
+    "project_url": "https://github.com/ndouglas/downdelving/"
+  },
+  "Dragonpit": {
+    "used": false,
+    "project_url": ""
+  },
+  "Dragonstone": {
+    "used": false,
+    "project_url": ""
+  },
+  "Dreadfort": {
+    "used": false,
+    "project_url": ""
+  },
+  "Driftwood Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Dun Fort": {
+    "used": false,
+    "project_url": ""
+  },
+  "Dunstonbury": {
+    "used": false,
+    "project_url": ""
+  },
+  "Dyre Den": {
+    "used": false,
+    "project_url": ""
+  },
+  "Evenfall Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Eyrie": {
+    "used": false,
+    "project_url": ""
+  },
+  "Faircastle": {
+    "used": false,
+    "project_url": ""
+  },
+  "Fawnton": {
+    "used": false,
+    "project_url": ""
+  },
+  "Feastfires": {
+    "used": false,
+    "project_url": ""
+  },
+  "Felwood": {
+    "used": false,
+    "project_url": ""
+  },
+  "Flint's Finger": {
+    "used": false,
+    "project_url": ""
+  },
+  "Gallowsgrey": {
+    "used": false,
+    "project_url": ""
+  },
+  "Gates of the Moon": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ghaston Grey": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ghost Hill": {
+    "used": false,
+    "project_url": ""
+  },
+  "Godsgrace": {
+    "used": false,
+    "project_url": ""
+  },
+  "Golden Tooth": {
+    "used": false,
+    "project_url": ""
+  },
+  "Goldengrove": {
+    "used": false,
+    "project_url": ""
+  },
+  "Goldgrass": {
+    "used": false,
+    "project_url": ""
+  },
+  "Grandview": {
+    "used": false,
+    "project_url": ""
+  },
+  "Grassfield Keep": {
+    "used": false,
+    "project_url": ""
+  },
+  "Greenfield": {
+    "used": false,
+    "project_url": ""
+  },
+  "Greenstone": {
+    "used": false,
+    "project_url": ""
+  },
+  "Grey Garden": {
+    "used": false,
+    "project_url": ""
+  },
+  "Grey Glen": {
+    "used": false,
+    "project_url": ""
+  },
+  "Greywater Watch": {
+    "used": false,
+    "project_url": ""
+  },
+  "Griffin's Roost": {
+    "used": false,
+    "project_url": ""
+  },
+  "Grimston": {
+    "used": false,
+    "project_url": ""
+  },
+  "Gull Tower": {
+    "used": false,
+    "project_url": ""
+  },
+  "Hammerhal": {
+    "used": false,
+    "project_url": ""
+  },
+  "Hammerhorn": {
+    "used": false,
+    "project_url": ""
+  },
+  "Harlaw Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Harrenhal": {
+    "used": false,
+    "project_url": ""
+  },
+  "Harridan Hill": {
+    "used": false,
+    "project_url": ""
+  },
+  "Harvest Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Hayford": {
+    "used": false,
+    "project_url": ""
+  },
+  "Haystack Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Heart's Home": {
+    "used": false,
+    "project_url": ""
+  },
+  "Hellgate Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Hellholt": {
+    "used": true,
+    "project_url": "https://github.com/hellholt/"
+  },
+  "High Hermitage": {
+    "used": false,
+    "project_url": ""
+  },
+  "High Tide": {
+    "used": false,
+    "project_url": ""
+  },
+  "Highgarden": {
+    "used": false,
+    "project_url": ""
+  },
+  "Highpoint": {
+    "used": false,
+    "project_url": ""
+  },
+  "Hightower": {
+    "used": false,
+    "project_url": ""
+  },
+  "Hoare": {
+    "used": false,
+    "project_url": ""
+  },
+  "Hollard": {
+    "used": false,
+    "project_url": ""
+  },
+  "Holyhall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Honeyholt": {
+    "used": false,
+    "project_url": ""
+  },
+  "Horn Hill": {
+    "used": false,
+    "project_url": ""
+  },
+  "Hornvale": {
+    "used": false,
+    "project_url": ""
+  },
+  "Hornwood": {
+    "used": false,
+    "project_url": ""
+  },
+  "Iron Holt": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ironoaks": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ironrath": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ivy Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Karhold": {
+    "used": true,
+    "project_url": "https://github.com/hellholt/karhold/"
+  },
+  "Kayce": {
+    "used": false,
+    "project_url": ""
+  },
+  "Kingsgrave": {
+    "used": false,
+    "project_url": ""
+  },
+  "Kingshouse": {
+    "used": false,
+    "project_url": ""
+  },
+  "Last Hearth": {
+    "used": false,
+    "project_url": ""
+  },
+  "Lemonwood": {
+    "used": false,
+    "project_url": ""
+  },
+  "Longbow Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Longtable": {
+    "used": true,
+    "project_url": "https://github.com/hellholt/longtable/"
+  },
+  "Hewett": {
+    "used": false,
+    "project_url": ""
+  },
+  "Lordsport": {
+    "used": false,
+    "project_url": ""
+  },
+  "Lychester": {
+    "used": false,
+    "project_url": ""
+  },
+  "Maegor's Holdfast": {
+    "used": false,
+    "project_url": ""
+  },
+  "Maidenpool": {
+    "used": false,
+    "project_url": ""
+  },
+  "Mistwood": {
+    "used": true,
+    "project_url": "https://github.com/hellholt/mistwood/"
+  },
+  "Moat Cailin": {
+    "used": false,
+    "project_url": ""
+  },
+  "Mormont Keep": {
+    "used": false,
+    "project_url": ""
+  },
+  "Morne": {
+    "used": false,
+    "project_url": ""
+  },
+  "New Barrel": {
+    "used": false,
+    "project_url": ""
+  },
+  "New Castle": {
+    "used": false,
+    "project_url": ""
+  },
+  "Newkeep": {
+    "used": false,
+    "project_url": ""
+  },
+  "Nightsong": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ninestars": {
+    "used": true,
+    "project_url": "https://github.com/hellholt/ninestars/"
+  },
+  "Old Anchor": {
+    "used": false,
+    "project_url": ""
+  },
+  "Old Oak": {
+    "used": false,
+    "project_url": ""
+  },
+  "Oldcastle": {
+    "used": false,
+    "project_url": ""
+  },
+  "Oldstones": {
+    "used": false,
+    "project_url": ""
+  },
+  "Parchments": {
+    "used": false,
+    "project_url": ""
+  },
+  "Pebbleton": {
+    "used": false,
+    "project_url": ""
+  },
+  "Pinkmaiden": {
+    "used": false,
+    "project_url": ""
+  },
+  "Poddingfield": {
+    "used": false,
+    "project_url": ""
+  },
+  "Pyke": {
+    "used": false,
+    "project_url": ""
+  },
+  "Rain House": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ramsgate": {
+    "used": false,
+    "project_url": ""
+  },
+  "Raventree Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Red Keep": {
+    "used": false,
+    "project_url": ""
+  },
+  "Red Lake": {
+    "used": false,
+    "project_url": ""
+  },
+  "Redfort": {
+    "used": false,
+    "project_url": ""
+  },
+  "Rillwater Crossing": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ring": {
+    "used": false,
+    "project_url": ""
+  },
+  "Risley Glade": {
+    "used": false,
+    "project_url": ""
+  },
+  "Riverrun": {
+    "used": false,
+    "project_url": ""
+  },
+  "Riverspring": {
+    "used": false,
+    "project_url": ""
+  },
+  "Rook's Rest": {
+    "used": false,
+    "project_url": ""
+  },
+  "Rosby": {
+    "used": false,
+    "project_url": ""
+  },
+  "Runestone": {
+    "used": false,
+    "project_url": ""
+  },
+  "Salt Shore": {
+    "used": false,
+    "project_url": ""
+  },
+  "Sandstone": {
+    "used": false,
+    "project_url": ""
+  },
+  "Sarsfield": {
+    "used": false,
+    "project_url": ""
+  },
+  "Seagard": {
+    "used": false,
+    "project_url": ""
+  },
+  "Sealskin Point": {
+    "used": false,
+    "project_url": ""
+  },
+  "Sharp Point": {
+    "used": false,
+    "project_url": ""
+  },
+  "Shatterstone": {
+    "used": false,
+    "project_url": ""
+  },
+  "Silverhill": {
+    "used": false,
+    "project_url": ""
+  },
+  "Skyreach": {
+    "used": false,
+    "project_url": ""
+  },
+  "Snakewood": {
+    "used": false,
+    "project_url": ""
+  },
+  "Solar": {
+    "used": false,
+    "project_url": ""
+  },
+  "Spottswood": {
+    "used": false,
+    "project_url": ""
+  },
+  "Standfast": {
+    "used": false,
+    "project_url": ""
+  },
+  "Starfall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Starpike": {
+    "used": false,
+    "project_url": ""
+  },
+  "Stinkwater": {
+    "used": false,
+    "project_url": ""
+  },
+  "Stokeworth": {
+    "used": false,
+    "project_url": ""
+  },
+  "Stone Hedge": {
+    "used": false,
+    "project_url": ""
+  },
+  "Stonedance": {
+    "used": false,
+    "project_url": ""
+  },
+  "Stonehelm": {
+    "used": false,
+    "project_url": ""
+  },
+  "Storm's End": {
+    "used": false,
+    "project_url": ""
+  },
+  "Strongsong": {
+    "used": false,
+    "project_url": ""
+  },
+  "Summerhall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Sunhouse": {
+    "used": false,
+    "project_url": ""
+  },
+  "Sunspear": {
+    "used": false,
+    "project_url": ""
+  },
+  "Sweetport Sound": {
+    "used": false,
+    "project_url": ""
+  },
+  "Tarbeck Hall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Ten Towers": {
+    "used": false,
+    "project_url": ""
+  },
+  "Three Towers": {
+    "used": false,
+    "project_url": ""
+  },
+  "Tor": {
+    "used": false,
+    "project_url": ""
+  },
+  "Torrhen's Square": {
+    "used": false,
+    "project_url": ""
+  },
+  "Tower of Glimmering": {
+    "used": false,
+    "project_url": ""
+  },
+  "Tumbleton": {
+    "used": false,
+    "project_url": ""
+  },
+  "Twins": {
+    "used": false,
+    "project_url": ""
+  },
+  "Uplands": {
+    "used": false,
+    "project_url": ""
+  },
+  "Vaith": {
+    "used": false,
+    "project_url": ""
+  },
+  "Volmark": {
+    "used": false,
+    "project_url": ""
+  },
+  "Vulture's Roost": {
+    "used": false,
+    "project_url": ""
+  },
+  "Wayfarer's Rest": {
+    "used": false,
+    "project_url": ""
+  },
+  "Weeping Town": {
+    "used": false,
+    "project_url": ""
+  },
+  "Whispers": {
+    "used": false,
+    "project_url": ""
+  },
+  "Whitegrove": {
+    "used": false,
+    "project_url": ""
+  },
+  "Whitewalls": {
+    "used": false,
+    "project_url": ""
+  },
+  "Wickenden": {
+    "used": false,
+    "project_url": ""
+  },
+  "Widow's Watch": {
+    "used": false,
+    "project_url": ""
+  },
+  "Willow Wood": {
+    "used": false,
+    "project_url": ""
+  },
+  "Winterfell": {
+    "used": false,
+    "project_url": ""
+  },
+  "Wolf's Den": {
+    "used": false,
+    "project_url": ""
+  },
+  "Wyl": {
+    "used": false,
+    "project_url": ""
+  },
+  "Wyndhall": {
+    "used": false,
+    "project_url": ""
+  },
+  "Yronwood": {
+    "used": false,
+    "project_url": ""
+  }
+}
